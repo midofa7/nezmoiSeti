@@ -1,0 +1,164 @@
+{
+  "Blcokcontact": {
+    "titel": "Appointment",
+    "text": "Make An Appointment For Your Family",
+    "titelFrom": "Book An Appointment",
+    "tag": "Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd  ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo      rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod    et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed."
+  },
+  "Blcokproject": {
+    "titel": "  Blog Post",
+    "suTitel": "Our Latest Medical Blog Posts",
+    "preject": [
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      },
+      {
+        "image": "",
+        "titel": "Dolor clita vero elitr sea stet dolor justo diam",
+        "text": "Dolor lorem eos dolor duo et eirmod sea. Dolor sit magna     rebum clita rebum dolor stet amet justo",
+        "logo": "",
+        "link": {
+          "text": "ohn Do",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "skills": {
+    "titel": " Our Doctors",
+    "sutitel": "Qualified Healthcare Professionals",
+    "logane": [
+      {
+        "imaga": "",
+        "titel": "Doctor Name",
+        "sutitel": "Cardiology Specialist",
+        "text": "     Dolor lorem eos dolor duo eirmod sea. Dolor    sit magna rebum clita rebum dolor"
+      },
+      {
+        "imaga": "",
+        "titel": "Doctor Name",
+        "sutitel": "Cardiology Specialist",
+        "text": "     Dolor lorem eos dolor duo eirmod sea. Dolor    sit magna rebum clita rebum dolor"
+      },
+      {
+        "imaga": "",
+        "titel": "Doctor Name",
+        "sutitel": "Cardiology Specialist",
+        "text": "     Dolor lorem eos dolor duo eirmod sea. Dolor    sit magna rebum clita rebum dolor"
+      },
+      {
+        "imaga": "",
+        "titel": "Doctor Name",
+        "sutitel": "Cardiology Specialist",
+        "text": "     Dolor lorem eos dolor duo eirmod sea. Dolor    sit magna rebum clita rebum dolor"
+      },
+      {
+        "imaga": "",
+        "titel": "Doctor Name",
+        "sutitel": "Cardiology Specialist",
+        "text": "     Dolor lorem eos dolor duo eirmod sea. Dolor    sit magna rebum clita rebum dolor"
+      }
+    ]
+  },
+  "Blockliter": {
+    "image": "",
+    "tag": " About Us",
+    "titel": "Best Medical Care For Yourself and Your Family",
+    "text": "  dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam      diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem   dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam    diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem"
+  },
+  "Blockqui": {
+    "titel": " Welcome To Medinova",
+    "text": "  Bst Healthcare Solut44ion In Your City",
+    "link": {
+      "text": "Find Doctor",
+      "url": ""
+    }
+  }
+}
